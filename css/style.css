@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+.shad{
+    background-color:wheat;
+}
+
+
+h1 {
+     color: aqua;
+    text-align: center;
+}
+
+.header {
+    width: 80%;
+    
+    }
+
+
+.header h3 {
+    border-bottom: 1px solid black;
+    display:inline-block;
+}
+
+.header h4 {
+    border-bottom: 1px solid black;
+    display: block;
+    width: 15%;
+}
+
+
+.revenge {
+    width: 15%
+    float:right;
+    
+
+}
+
+.my-revenge img {
+    width: 200px;
+    height: 200px;
+    display:block;
+} 
+
+.container h2 {
+    text-align: left;
+}
+
+.object {
+    text-align: justify;
+    color:royalblue;
+    
+}
+.education{
+    color: royalblue;
+}
+.skills{
+    color: royalblue;
+} 
+.Language{
+    color: royalblue;
+}
+.personal{
+    color: royalblue;
+}
+.signature{
+    color: royalblue;
+}
+.cell{
+    color: royalblue;
+}
+.into{
+    color: royalblue;
+}
+.up{
+    color: royalblue;
+}
+.part1{
+    border-style: dashed;
+   background-color: blanchedalmond;
+} 
+.part2{
+    border-style: dashed;
+   background-color: blanchedalmond;
+}
+.part3{
+    border-style: dashed;
+   background-color: blanchedalmond;
+}
+.part4{
+    border-style: dashed;
+   background-color: blanchedalmond;
+}
+.part5{
+    border-style: dashed;
+   background-color: blanchedalmond;
+}
+.part6{
+    border-style: dashed;
+   background-color: blanchedalmond;
+}
